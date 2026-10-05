@@ -10,7 +10,7 @@
 </p>
 
 #
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f.dtrr)
 ![Visitor Count](https://komarev.com/ghpvc/?username=ditroiafabio&color=blue)
 
